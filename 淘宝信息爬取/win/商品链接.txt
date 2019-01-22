@@ -1,0 +1,5 @@
+商品评论 URL：https://detail.tmall.com/item.htm?id=539689341036&ali_refid=a3_430583_1006:1124030852:N:%E5%B0%8F%E7%B1%B3%E7%A9%BA%E6%B0%94%E5%87%80%E5%8C%96%E5%99%A8:985d7f1f48fbe09e1b1d93f248ae6ca2&ali_trackid=1_985d7f1f48fbe09e1b1d93f248ae6ca2&spm=a230r.1.14.1
+
+商品评论1 URL：https://detail.tmall.com/item.htm?spm=a230r.1.14.12.3f313d88soNvTL&id=560893684143&cm_id=140105335569ed55e27b&abbucket=1&skuId=3676555086099
+
+商品评论2 URL：https://item.taobao.com/item.htm?spm=a230r.1.14.61.3f313d88Wlk01I&id=555454965056&ns=1&abbucket=1#detail
